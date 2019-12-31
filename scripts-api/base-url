@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+local="http://localhost:3000"
+heroku=""
+
+echo $local
